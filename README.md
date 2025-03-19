@@ -28,7 +28,7 @@ git clone https://github.com/Lucky-Prajapati07/Resume.git
 
 ## 📬 Contact
 👤 **Lucky Rajnath Prajapati**  
-📧 Email: [luckyprajapati50974@gmail.com](mailto: luckyprajapati50974@gmail.com)  
+📧 Email: luckyprajapati50974@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/lucky-prajapati-7279b82b3](https://www.linkedin.com/in/lucky-prajapati-7279b82b3)  
 📍 Location: Mumbai, India  
 
