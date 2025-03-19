@@ -14,7 +14,7 @@ This repository contains a **clean, professional, and responsive resume** built 
 ## 📜 How to Use
 ### 1️⃣ Clone the Repository  
 ```sh
-git clone https://github.com/yourusername/resume-project.git
+git clone https://github.com/Lucky-Prajapati07/Resume.git
 ```
 
 ---
